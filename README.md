@@ -18,7 +18,7 @@ Detect spam emails using a neural network (TensorFlow + Keras). Built in Jupyter
 
 ## 🚀 usage
 
-$ git clone https://github.com/Tareqhasanmunna/spam-email-detector-using-Neural-Network.git  
+$ git clone https://github.com/Tareqhasanmunna/Spam-Email-Detection-using-Neural-Networks  
 $ cd spam-email-detector-using-Neural-Network  
 
 # (optional) create virtual env
